@@ -1,5 +1,7 @@
 .h1 {
     color: blue;
-    background-color: brown;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(228, 243, 245);
+    font-family: 'Montserrat', sans-serif;
+    width: 600px;
+    margin: auto;
 }
