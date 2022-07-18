@@ -1,21 +1,9 @@
-.h1 {
-    color: blue;
-    font-family: 'Montserrat', sans-serif;
-    width: 600px;
-    margin: auto;
-    margin-bottom: 20px;
-    margin-top: 20px;
+body {
+    font-family: sans-serif;
 }
 
-.link {
-    width: 600px;
+.main {
+    width: 500px;
     margin: auto;
-    margin-top: 10px;
-    margin-bottom: 20px; 
+    color: blueviolet;
 }
-
-.img {
-    width: 600px;
-    margin: auto;
-}
-
